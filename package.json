@@ -1,0 +1,18 @@
+{
+  "name": "@bbsify/npm-poc",
+  "version": "1.0.5",
+  "description": "a proof of concept for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bbsify",
+  "license": "ISC",
+  "dependencies": {
+    "local": "file:./local"
+  },
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  }
+}

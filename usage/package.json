@@ -1,0 +1,15 @@
+{
+  "name": "usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bbsify/npm-poc": "^1.0.5"
+  },
+  "type": "module"
+}
