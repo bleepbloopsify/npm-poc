@@ -1,5 +1,8 @@
-import { canary } from "local";
+import { canary, native } from "@bbsify/npm-poc-native";
 
-console.log(canary);
+console.log(canary, native);
 
-export default canary;
+export default {
+  canary,
+  native,
+};

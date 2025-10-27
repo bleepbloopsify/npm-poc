@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bbsify/npm-poc": "^1.0.5"
+    "@bbsify/npm-poc": "^1.0.9"
   },
   "type": "module"
 }

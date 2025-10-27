@@ -1,0 +1,8 @@
+{
+  "name": "usage",
+  "dependencies": {
+    "@bbsify/npm-poc-localized": "^1.0.0"
+  },
+  "type": "module",
+  "main": "./index.js"
+}

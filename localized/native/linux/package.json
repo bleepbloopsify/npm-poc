@@ -1,0 +1,11 @@
+{
+  "name": "linux",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "type": "module",
+  "main": "./index.js"
+}

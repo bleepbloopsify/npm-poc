@@ -1,0 +1,11 @@
+{
+  "name": "darwin",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "type": "module",
+  "main": "./index.js"
+}

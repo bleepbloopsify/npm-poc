@@ -1,0 +1,19 @@
+{
+  "name": "@bbsify/npm-poc-native",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "optionalDependencies": {
+    "@bbsify/npm-poc-darwin": "^1.0.0",
+    "@bbsify/npm-poc-linux": "^1.0.0"
+  }
+}

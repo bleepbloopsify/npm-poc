@@ -1,5 +1,5 @@
 {
-  "name": "local",
+  "name": "@bbsify/npm-poc-darwin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,11 @@
   "type": "module",
   "exports": {
     ".": "./index.js"
-  }
+  },
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ]
 }
